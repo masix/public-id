@@ -1,5 +1,5 @@
 {
-    "name": "malahierba-lab/public-id",
+    "name": "masix/public-id",
     "description": "Easy id obfuscation for Laravel. Powered by hashids",
     "keywords": [
         "laravel",
@@ -12,9 +12,8 @@
     "license" : "MIT",
     "authors": [
         {
-            "name": "malahierba team",
-            "email": "lab@malahierba.cl",
-            "homepage": "http://malahierba.cl"
+            "name": "Omar Ayoub",
+            "email": "omar@abstract.ma"
         }
     ],
     "require": {
@@ -24,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Malahierba\\PublicId\\": "src/"
+            "Masix\\PublicId\\": "src/"
         }
     }
 }
