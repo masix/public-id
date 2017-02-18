@@ -1,5 +1,5 @@
 <?php
-namespace Malahierba\PublicId;
+namespace Masix\PublicId;
 
 use Hashids\Hashids;
 
